@@ -12,4 +12,4 @@
 
 <h3>Languages & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,java,c,latex,&perline=10&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,java,c,latex,&perline=10&theme=dark)
