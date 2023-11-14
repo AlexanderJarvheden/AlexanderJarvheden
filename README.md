@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Alexander :wave:</h1>
-<h3>As a second year student in the Computer Science and Engineering programme, and a first year student in the Industrial Engineering and Management programme at the KTH Royal Institute of Technology, I am constantly seeking new opportunities to expand my knowledge and skills in the fields of computer science and finance. I am highly motivated and driven, with a strong desire to succeed in my studies and future career. In my free time, I enjoy staying up to date with the latest developments in technology and financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
+<h3>As a second year student in the Computer Science and Engineering programme, and a first year student in the Industrial Engineering and Management programme at the KTH Royal Institute of Technology, I am constantly seeking new opportunities to expand my knowledge and skills in the fields of computer science and finance. I am highly motivated and driven, with a strong desire to succeed in my studies and future career. 
+  
+In my free time, I enjoy staying up to date with the latest developments in technology and financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
 
 
 - 🌱 I’m currently learning: **Database Systems & Computer Organization and Components**
