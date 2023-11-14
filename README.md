@@ -12,6 +12,7 @@
 
 <h3>Languages & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)![excel](https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/c06ca07e-c2a3-48f0-9aaf-cab735e8fd56)
+![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)<img width="512" alt="XCEL" src="https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/7f39f757-dfda-427c-bccc-02b8c5df7282">
+
 
 
