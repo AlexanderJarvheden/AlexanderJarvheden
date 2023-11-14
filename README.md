@@ -12,7 +12,7 @@
 
 <h3>Languages & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)<img width="20" alt="XCEL" src="https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/869eae36-a223-4d0b-8d00-36c8a854e9d0">
+![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)<img width="40" alt="XCEL" src="https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/869eae36-a223-4d0b-8d00-36c8a854e9d0">
 
 
 
