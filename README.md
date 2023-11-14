@@ -12,4 +12,6 @@
 
 <h3>Languages & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)(https://banner2.cleanpng.com/20180331/bwq/kisspng-microsoft-excel-computer-icons-visual-basic-for-ap-excel-5abfec95b39198.1398677315225273817355.jpg)
+![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)![image](https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/01e9c31a-4353-45d0-bcbb-c079f562b4ce)
+
+)
