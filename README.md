@@ -12,6 +12,5 @@
 
 <h3>Languages & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)![image](https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/01e9c31a-4353-45d0-bcbb-c079f562b4ce)
+![My Skills](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=dark)![image](https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/e1ef1ae7-0473-49fb-8670-21265e1d3e53)
 
-)
