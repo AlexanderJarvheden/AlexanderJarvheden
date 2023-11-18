@@ -5,6 +5,7 @@
 
 
 - 📚 I’m currently learning: **Database Systems, Computer Organization and Components & Logic for Computer Scientists**
+- 📜 Grades: [GPA 4.81](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/GradesTranscript.pdf)
 - 📫 Email: **jarvh@kth.se**
 
 <h3 align="left">Connect with me:</h3>
