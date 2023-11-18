@@ -15,8 +15,7 @@
 
 <h3>Languages & Tools</h3>
 
-<img src="https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/461127ae-bcbd-4626-81e1-1d35be8344d3" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=light"/>
+<img src="https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/461127ae-bcbd-4626-81e1-1d35be8344d3" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=light"/>
 ![](https://skillicons.dev/icons?i=java,py,go,c,postgres,git,github,vscode,latex,&perline=10&theme=light)
 
 
