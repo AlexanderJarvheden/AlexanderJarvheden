@@ -4,7 +4,7 @@
 <h3>In my free time, I enjoy staying up to date with the latest developments in 👨🏻‍💻 technology and 💹 financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
 
 
-- 📚 I’m currently learning: **Database Systems, Computer Organization and Components & Logic for Computer Scientists**
+- 📚 I’m currently learning: **Database Systems, Computer Organization and Components, Logic for Computer Scientists**
 - 📜 Grades: [GPA 4.81](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/GradesTranscript.pdf)
 - 📫 Email: **jarvh@kth.se**
 
