@@ -5,7 +5,7 @@
 
 
 - 📚 I’m currently learning: **Software engineering in project form - a webplatform for the circular economy, Programming paradigms, Numerical Methods**
-- 📜 Grades: Computer Science - [GPA 4.85](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 5.00](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-Indek.pdf)
+- 📜 Grades: Computer Science - [GPA 4.95](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 5.00](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-Indek.pdf)
 - 📫 Email: **jarvh@kth.se**
 
 <h3 align="left">Connect with me:</h3>
