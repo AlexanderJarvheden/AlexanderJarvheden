@@ -4,7 +4,7 @@
 <h3>In my free time, I enjoy staying up to date with the latest developments in 👨🏻‍💻 technology and 💹 financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
 
 
-- 📚 I’m currently learning: **Software engineering in project form - a webplatform for the circular economy, Programming paradigms, Numerical Methods**
+- 📚 I’m currently learning: **Software engineering in project form - a webplatform for the circular economy, Programming paradigms, Probability Theory and Statistics with Application to Machine Learning**
 - 📜 Grades: Computer Science - [GPA 4.89](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 4.93](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)
 - 📫 Email: **jarvh@kth.se**
 
