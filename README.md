@@ -4,8 +4,8 @@
 <h3>In my free time, I enjoy staying up to date with the latest developments in technology and financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
 
 
-- 📚 I’m currently learning: **Algorithms, datastructures and complexity, Operating systems, Discrete mathematics, Differential equations, Industrial management control**
-- 📜 Grades: Computer Science - [GPA 4.9](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 4.7](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)
+- 📚 I’m currently learning: **Quantitative Business and Operations Analytics, Operating systems, Complementary course in Differential Equations and Transforms, Operations strategy, Bachelor Thesis in Computer Science -- Machine Learning in Finance**
+- 📜 Grades: Computer Science - [GPA 4.8](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 4.7](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)
 - 📫 Email: **jarvh@kth.se**
 
 <h3 align="left">Connect with me:</h3>
