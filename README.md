@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Alexander :wave: 😁</h1>
-<h3>As a third year student in the Computer Science and Engineering programme, and a second year student in the Industrial Engineering and Management programme, at the KTH Royal Institute of Technology, I am constantly seeking new opportunities to expand my knowledge and skills in the fields of computer science and finance. I am highly motivated and driven, with a strong desire to succeed in my studies and future career.</h3>
-  
-<h3>In my free time, I enjoy staying up to date with the latest developments in technology and financial markets. I am always open to new challenges and opportunities and am excited to see where my studies and interests will take me in the future.</h3>
+<h3 align="center">Focused on the intersection of computer science, quantitative analysis, and financial systems.</h3>
 
+<p>Double-degree candidate in Computer Science and Industrial Engineering at KTH Royal Institute of Technology, with a rigorous academic foundation in algorithms, data analytics, and financial modeling. Driven by complex problem solving, with a strong interest in applying technical and analytical skills to real-world financial and operational challenges.</p>
 
-- 📚 I’m currently learning: **Quantitative Business and Operations Analytics, Operating systems, Complementary course in Differential Equations and Transforms, Operations strategy, Bachelor Thesis in Computer Science -- Machine Learning in Finance**
-- 📜 Grades: Computer Science - [GPA 4.8](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf), Industrial Engineering and Management - [GPA 4.7](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)
-- 📫 Email: **jarvh@kth.se**
+- **Current coursework:** Probability Theory, Finance, Computer Security, Protocols and Principles of the Internet  
+- **GPA:** [Computer Science: 4.8](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf) | [Industrial Economics: 4.7](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)  
+- **Contact:** jarvh@kth.se
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +13,8 @@
 
 <h3>Languages & Tools</h3>
  
-![Skills](https://github.com/AlexanderJarvheden/AlexanderJarvheden/assets/131161901/8718d62a-8aeb-4d78-ad18-b04b984abb19)
+![Skills](https://skillicons.dev/icons?i=python,go,haskell,postgres,php,matlab,git,github,vscode,java,c,cs,javascript,html,css,nodejs,react,latex,linux,&perline=10&theme=dark)]
+
 
 
 
