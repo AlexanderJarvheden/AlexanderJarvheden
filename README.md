@@ -1,5 +1,5 @@
 <h3 align="center">Focused on the intersection of computer science, quantitative analysis, and financial systems.</h3>
-
+![](https://komarev.com/ghpvc/?username=alexanderjarvheden&style=flat-square&color=blue)
 <p>Double-degree candidate in Computer Science and Industrial Engineering at KTH Royal Institute of Technology, with a rigorous academic foundation in algorithms, data analytics, and financial modeling. Driven by complex problem solving, with a strong interest in applying technical and analytical skills to real-world financial and operational challenges.</p>
 
 - **Current coursework:** Probability Theory, Finance, Computer Security, Protocols and Principles of the Internet  
@@ -13,7 +13,8 @@
 
 <h3>Languages & Tools</h3>
  
-![Skills](https://skillicons.dev/icons?i=python,go,haskell,postgres,php,matlab,git,github,vscode,java,c,cs,javascript,html,css,nodejs,react,latex,linux,&perline=10&theme=dark)]
+![Skills](https://skillicons.dev/icons?i=python,go,haskell,postgres,php,matlab,git,github,vscode,java,c,cs,javascript,html,css,nodejs,react,latex,linux,&perline=10&theme=dark)
+<div class="tenor-gif-embed" data-postid="12460669" data-share-method="host" data-aspect-ratio="2.16216" data-width="100%"><a href="https://tenor.com/view/forex-fundamentales-diddyer-trading-trader-gif-12460669">Forex Fundamentales GIF</a>from <a href="https://tenor.com/search/forex-gifs">Forex GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
