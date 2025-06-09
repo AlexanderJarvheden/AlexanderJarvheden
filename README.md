@@ -1,4 +1,4 @@
-![](https://tenor.com/sv/view/forex-fundamentales-diddyer-trading-trader-gif-12460669)
+![](https://github.com/user-attachments/assets/9be67855-2162-424a-989d-fdb9cfabd533)
 ![](https://komarev.com/ghpvc/?username=alexanderjarvheden&style=flat-square&color=blue)
 <h3 align="center">Focused on the intersection of computer science, quantitative analysis, and financial systems.</h3>
 
