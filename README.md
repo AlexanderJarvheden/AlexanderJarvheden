@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9be67855-2162-424a-989d-fdb9cfabd533" alt="Custom Image" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexanderjarvheden&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
