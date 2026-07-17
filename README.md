@@ -8,8 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=alexanderjarvheden&style=flat-square&color=blue" alt="Profile Views" />
 
-- **Current & Upcoming Focus:** Advanced Machine Learning, Financial Derivatives, Statistical ML, Mathematical Systems Theory
-- **GPA:** [Computer Science: 4.8 / 5.0](https://raw.githubusercontent.com/AlexanderJarvheden/AlexanderJarvheden/main/Grades-Compsci.pdf) | [Industrial Economics: 4.6 / 5.0](https://raw.githubusercontent.com/AlexanderJarvheden/AlexanderJarvheden/main/Grades-I.pdf)
+- **Current & Upcoming Focus:** Advanced Machine Learning, Financial Derivatives, Statistical ML, Portfolio Theory, Risk Management
+- **GPA:** [Computer Science: 4.8 / 5.0](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CompSci.pdf) | [Industrial Economics: 4.6 / 5.0](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-IEM.pdf)
 - **Contact:** alexander.jarvheden@gmail.com
 
 <h3 align="left">Connect with me:</h3>
