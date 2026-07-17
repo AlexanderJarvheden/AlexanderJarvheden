@@ -1,16 +1,22 @@
-## Hi there 👋
+<h3 align="center">Aspiring Quantitative Researcher / Trader | Bridging Financial Mathematics & Machine Learning</h3>
 
-<!--
-**AlexanderJarvheden/AlexanderJarvheden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9be67855-2162-424a-989d-fdb9cfabd533" alt="Custom Image" />
+</p>
 
-Here are some ideas to get you started:
+<p>Dual-degree M.Sc. candidate at KTH Royal Institute of Technology specializing in <b>Computer Science (Data Science/ML)</b> and <b>Financial Mathematics</b>, concurrently working as a Junior Quantitative Analyst at SEB. Highly analytical and driven by stochastic modeling, statistical learning, and high-performance software execution.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=alexanderjarvheden&style=flat-square&color=blue" alt="Profile Views" />
+
+- **Current & Upcoming Focus:** Advanced Machine Learning, Financial Derivatives, Statistical ML, Mathematical Systems Theory
+- **GPA:** [Computer Science: 4.8 / 5.0](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-CS.pdf) | [Industrial Economics: 4.6 / 5.0](https://github.com/AlexanderJarvheden/AlexanderJarvheden/blob/main/Grades-I.pdf)
+- **Contact:** alexander.jarvheden@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexander-jarvheden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-jarvheden" height="30" width="40" /></a>
+</p>
+
+<h3>Languages & Tools</h3>
+ 
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,r,postgres,git,github,linux,latex&perline=10&theme=dark)
